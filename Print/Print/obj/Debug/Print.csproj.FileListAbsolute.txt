@@ -1,0 +1,9 @@
+d:\users\administrator\source\repos\Print\Print\obj\Debug\Print.csprojAssemblyReference.cache
+d:\users\administrator\source\repos\Print\Print\obj\Debug\Print.csproj.CoreCompileInputs.cache
+d:\users\administrator\source\repos\Print\Print\obj\Debug\Interop.Office.dll
+d:\users\administrator\source\repos\Print\Print\obj\Debug\Print.csproj.ResolveComReference.cache
+d:\Users\administrator\source\repos\Print\Print\bin\Debug\Print.exe.config
+d:\Users\administrator\source\repos\Print\Print\bin\Debug\Print.exe
+d:\Users\administrator\source\repos\Print\Print\bin\Debug\Print.pdb
+d:\Users\administrator\source\repos\Print\Print\obj\Debug\Print.exe
+d:\Users\administrator\source\repos\Print\Print\obj\Debug\Print.pdb
